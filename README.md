@@ -345,7 +345,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Dillon Hunt - [Your Email or GitHub Profile]
+Dillon Hunt - docuswiftapp@yahoo.com
 
 Project Link: [https://github.com/yourusername/DocuSwift](https://github.com/yourusername/DocuSwift)
 
