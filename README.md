@@ -1,8 +1,6 @@
 # DocuSwift - Beautiful File Converter
 
 <div align="center">
-  <img src="app_icon_placeholder.png" alt="DocuSwift Logo" width="120" height="120">
-  
   <p>
     <strong>Easily convert your files to nearly any document format!</strong>
   </p>
